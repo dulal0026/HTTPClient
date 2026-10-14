@@ -6,8 +6,13 @@
 	objectVersion = 110;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		B4E6C78B307FB0DF00F77119 /* HTTPClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4E6C78A307FB0DF00F77119 /* HTTPClient.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		B4E6C77C307FAAC400F77119 /* HTTPClient.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HTTPClient.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B4E6C78A307FB0DF00F77119 /* HTTPClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPClient.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -30,6 +35,7 @@
 		B4E6C773307FAAC400F77119 = {
 			isa = PBXGroup;
 			children = (
+				B4E6C78A307FB0DF00F77119 /* HTTPClient.swift */,
 				B4E6C77E307FAAC400F77119 /* HTTPClient */,
 				B4E6C77D307FAAC400F77119 /* Products */,
 			);
@@ -110,6 +116,7 @@
 		B4E6C778307FAAC400F77119 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			files = (
+				B4E6C78B307FB0DF00F77119 /* HTTPClient.swift in Sources */,
 			);
 		};
 /* End PBXSourcesBuildPhase section */
