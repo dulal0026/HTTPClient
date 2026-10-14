@@ -10,6 +10,7 @@
 		B4E6C78B307FB0DF00F77119 /* HTTPClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4E6C78A307FB0DF00F77119 /* HTTPClient.swift */; };
 		B4E6C78D307FBC2200F77119 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4E6C78C307FBC0F00F77119 /* Product.swift */; };
 		B4E6C78F307FC02400F77119 /* ProductRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4E6C78E307FC02400F77119 /* ProductRowView.swift */; };
+		B4E6C791307FCB1600F77119 /* ProductStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4E6C790307FCB0300F77119 /* ProductStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -17,6 +18,7 @@
 		B4E6C78A307FB0DF00F77119 /* HTTPClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPClient.swift; sourceTree = "<group>"; };
 		B4E6C78C307FBC0F00F77119 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 		B4E6C78E307FC02400F77119 /* ProductRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductRowView.swift; sourceTree = "<group>"; };
+		B4E6C790307FCB0300F77119 /* ProductStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -39,6 +41,7 @@
 		B4E6C773307FAAC400F77119 = {
 			isa = PBXGroup;
 			children = (
+				B4E6C790307FCB0300F77119 /* ProductStore.swift */,
 				B4E6C78E307FC02400F77119 /* ProductRowView.swift */,
 				B4E6C78C307FBC0F00F77119 /* Product.swift */,
 				B4E6C78A307FB0DF00F77119 /* HTTPClient.swift */,
@@ -124,6 +127,7 @@
 			files = (
 				B4E6C78F307FC02400F77119 /* ProductRowView.swift in Sources */,
 				B4E6C78D307FBC2200F77119 /* Product.swift in Sources */,
+				B4E6C791307FCB1600F77119 /* ProductStore.swift in Sources */,
 				B4E6C78B307FB0DF00F77119 /* HTTPClient.swift in Sources */,
 			);
 		};
